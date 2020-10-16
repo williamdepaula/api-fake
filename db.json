@@ -2,7 +2,7 @@
     "clients": [
         {
             "name": "Maria",
-            "cards: [
+            "cards": [
                 {
                     "number": "334455556767363"
                 },
@@ -13,7 +13,7 @@
         },
         {
             "name": "João",
-            "cards: [
+            "cards": [
                 {
                     "number": "435234465345635"
                 },
