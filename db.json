@@ -9,7 +9,8 @@
                 {
                     "number": "456754346354567"
                 }
-            ]
+            ],
+            "address": "Rua das Flores, 2345. Apt 202"
         },
         {
             "name": "João",
@@ -20,7 +21,8 @@
                 {
                     "number": "563465675467457"
                 }
-            ]
+            ],
+            "address": "Rua das Flores, 2345. Apt 202"
         }
     ]
 }
