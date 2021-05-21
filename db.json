@@ -1,21 +1,21 @@
 {
-  "color": [
-    "Powder pink", 
-    "Light gray", 
-    "White", 
-    "Light green", 
-    "Light taupe"
-  ], 
-  "description": "Relaxed-fit T-shirt in melange linen jersey. Low-cut V-neck at front and dropped shoulders.", 
-  "image": [
-    "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F00%2Fb1%2F00b11d29a605cd488b6dd3963de4947fac454197.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]", 
-    "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F95%2F64%2F95649c0b16ec29f2248402d4c1bf36ed3b262964.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]", 
-    "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F50%2F2b%2F502bf012e5e84eb83b9f9fc5bd76ff8a53461dfa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]", 
-    "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2Fe9%2F7ce90eac8ed7e99524d433d5e987a15d63e36d66.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]", 
-    "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc1%2F7b%2Fc17beb7fd2e66478f64ba71ce5a25f0cd08721c7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
-  ], 
-  "name": "Linen T-shirt", 
-  "price": [
-    14.99
-  ]
+   "color":[
+      "Powder pink",
+      "Light gray",
+      "White",
+      "Light green",
+      "Light taupe"
+   ],
+   "description":"Relaxed-fit T-shirt in melange linen jersey. Low-cut V-neck at front and dropped shoulders.",
+   "image":[
+      "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F00%2Fb1%2F00b11d29a605cd488b6dd3963de4947fac454197.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F95%2F64%2F95649c0b16ec29f2248402d4c1bf36ed3b262964.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F50%2F2b%2F502bf012e5e84eb83b9f9fc5bd76ff8a53461dfa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2Fe9%2F7ce90eac8ed7e99524d433d5e987a15d63e36d66.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc1%2F7b%2Fc17beb7fd2e66478f64ba71ce5a25f0cd08721c7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+   ],
+   "name":"Linen T-shirt",
+   "price":[
+      14.99
+   ]
 }
